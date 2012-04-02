@@ -150,6 +150,7 @@ XmlTag(A_ThisHotkey)
 return
 
 
+; Standard XHTML tags (single letter tags come later)
 
 :o:body::
 XmlTag("body")
@@ -195,7 +196,20 @@ return
 XmlTag("html")
 return
 
-:o:p::
+
+; Short tags - require a < to start, to avoid ruining tab completion and 
+; accidental invocation
+
+; see also hre to paste a URL
+:o:<a::
+SendInput <a href=""></a>{left 4}
+return
+
+:o:<b::
+XmlTag("b")
+return
+
+:o:<p::
 XmlTag("p")
 return
 

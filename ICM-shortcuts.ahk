@@ -151,6 +151,10 @@ return
 
 
 
+:o:body::
+XmlTag("body")
+return
+
 :o:code::
 XmlTag("code")
 return
@@ -181,6 +185,14 @@ return
 
 :o:h6::
 XmlTag("h6")
+return
+
+:o:head::
+XmlTag("head")
+return
+
+:o:html::
+XmlTag("html")
 return
 
 :o:p::

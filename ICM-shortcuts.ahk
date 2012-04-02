@@ -196,6 +196,11 @@ return
 XmlTag("html")
 return
 
+:o:title::
+XmlTag("title")
+return
+
+
 
 ; Short tags - require a < to start, to avoid ruining tab completion and 
 ; accidental invocation

@@ -1,0 +1,6 @@
+
+# ignore bakup files created by auto hotkey
+*.bak
+
+# ignore thumbnails created by windows
+Thumbs.db

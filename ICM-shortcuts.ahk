@@ -76,6 +76,16 @@ tag := SignedTag("HACK:")
 SendInput %tag%
 return
 
+
+::rev::
+tag := SignedTag("REVIEW:")
+SendInput (
+SendInput %tag%
+SendInput  )
+SendInput {left 1}
+return
+
+
 :O:rule::
 (
 12345678901234567890123456789012345678901234567890123456789012345678901234567890

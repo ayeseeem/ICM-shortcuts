@@ -1,6 +1,6 @@
 
-# ignore bakup files created by auto hotkey
+# Ignore backup files created by AutoHotkey
 *.bak
 
-# ignore thumbnails created by windows
+# Ignore thumbnails created by Windows
 Thumbs.db

@@ -1,5 +1,5 @@
 ;-------------------------------------------------------------------------------
-; TODO ICM 2010-05-12: Wiki tags lik {code}, {pane(l)} etc?
+; TODO ICM 2010-05-12: Wiki tags like {code}, {pane(l)} etc?
 
 
 ; Variables - "Global Constants":
@@ -12,7 +12,7 @@ UserInitials := "ICM"
 ;-------------------------------------------------------------------------------
 ; Hotkeys
 ;-------------------------------------------------------------------------------
-; none used - to dangerous to me - ICM 2010-05-19.
+; none used - too dangerous to me - ICM 2010-05-19
 #space::Run www.google.co.uk
 
 

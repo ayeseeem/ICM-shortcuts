@@ -1,7 +1,3 @@
-;-------------------------------------------------------------------------------
-; TODO ICM 2010-05-12: Wiki tags like {code}, {pane(l)} etc?
-
-
 ; Variables - "Global Constants":
 UserInitials := "ICM"
 

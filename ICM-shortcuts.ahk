@@ -138,7 +138,7 @@ XmlTag(tag_core) {
 }
 
 
-; TODO: use A_ThisHotkey and strip some of its modifiers 
+; TODO: use A_ThisHotkey and strip some of its modifiers
 ; (inside the first :: pair) to extract e.g. <p>
 ; and then extract the core tag
 XmlTagComplete(tag_core) {
@@ -214,7 +214,7 @@ return
 
 
 
-; Short tags - require a < to start, to avoid ruining tab completion and 
+; Short tags - require a < to start, to avoid ruining tab completion and
 ; accidental invocation
 
 ; see also hre to paste a URL
@@ -235,8 +235,3 @@ return
 :o:hre::
 SendInput <a href="%Clipboard%"></a>{left 4}
 return
-
-
-
-
-

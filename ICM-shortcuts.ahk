@@ -43,7 +43,11 @@ SignedTag(tag) {
 
 
 ; simplest example:
-::btw::by the way
+;::btw::by the way
+;
+; simplest example, tweaked to not produce a trailing tab
+; (the completion character), but a trailing space instead:
+:o:btw::by the way `
 
 
 ; Typing:

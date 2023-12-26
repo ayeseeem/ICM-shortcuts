@@ -40,12 +40,14 @@ HACK: ICM 2022-12-24: <type here>
   ([rules](https://en.wikipedia.org/wiki/Ruler)) useful for judging line length
   where you don't have visible rulers, columns, right-hand margins, or column
   markers. Starts with a default selection of these:
+
   - Numbers
   - Git short message
   - Git message/plain text email wrap point
   - 80 character line length
 
   that looks something like this:
+
 ```console
 12345678901234567890123456789012345678901234567890123456789012345678901234567890
 50------------------------------------------------

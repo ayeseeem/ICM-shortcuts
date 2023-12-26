@@ -21,10 +21,11 @@ Most used:
 
   - `btw`+Tab -> "by the way "
   - `eg`+Tab -> "e.g. "
+  - `etc`+Tab -> "and so on. "
   - `ie`+Tab -> "i.e. "
 
   (although,
-  [consider not using eg and ie at all](https://insidegovuk.blog.gov.uk/2016/07/20/changes-to-the-style-guide-no-more-eg-and-ie-etc/)).
+  [consider not using eg, ie, and etc at all](https://insidegovuk.blog.gov.uk/2016/07/20/changes-to-the-style-guide-no-more-eg-and-ie-etc/)).
 
 - `TODO`+Tab: inserts an initialled and dated TODO like this, where you can
   then start typing:

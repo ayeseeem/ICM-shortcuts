@@ -82,7 +82,7 @@ Examples for HTML/XHTM:
 <a href="https://example.com/">(cursor here)</a>
 ```
 
-Examples for textile (and old-style Confluence wiki:
+Examples for textile (and old-style Confluence wiki):
 
 - `{code`+Tab and `{panel`+Tab
 

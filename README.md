@@ -17,8 +17,12 @@ Examples
 
 Most used:
 
-- Abbreviations: `btw`+Tab, `eg`+Tab, and `ie`+Tab give "by the way", "e.g.",
-  and "i.e."
+- Abbreviations:
+
+  - `btw`+Tab -> "by the way "
+  - `eg`+Tab -> "e.g. "
+  - `ie`+Tab -> "i.e. "
+
   (although,
   [consider not using eg and ie at all](https://insidegovuk.blog.gov.uk/2016/07/20/changes-to-the-style-guide-no-more-eg-and-ie-etc/)).
 

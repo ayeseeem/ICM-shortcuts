@@ -44,8 +44,8 @@ HACK: ICM 2022-12-24: <type here>
   - Git short message
   - Git message/plain text email wrap point
   - 80 character line length
-  That looks something like this:
 
+  that looks something like this:
 ```console
 12345678901234567890123456789012345678901234567890123456789012345678901234567890
 50------------------------------------------------

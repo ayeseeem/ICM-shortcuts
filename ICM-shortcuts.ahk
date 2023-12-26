@@ -87,6 +87,12 @@ SendInput {left 1}
 return
 
 
+::smell::
+tag := SignedTag("SMELL:")
+SendInput %tag%
+return
+
+
 :O:rule::
 (
 12345678901234567890123456789012345678901234567890123456789012345678901234567890

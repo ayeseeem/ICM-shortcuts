@@ -34,12 +34,15 @@ Most used:
 TODO: ICM 2022-12-24: <type here>
 ```
 
-- Similarly `HACK` and `REV`:
+- Similarly `HACK`, `REV` (review), and `SMELL` ("code smell"):
 
 ```console
 HACK: ICM 2022-12-24: <type here>
 (REVIEW: ICM 2022-12-24: <type here>)
+SMELL: ICM 2023-12-26:
 ```
+
+- Note that for convenience these all work in lower case!
 
 - `rule`+Tab: inserts a set of rulers
   ([rules](https://en.wikipedia.org/wiki/Ruler)) useful for judging line length

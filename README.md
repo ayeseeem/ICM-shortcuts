@@ -95,10 +95,13 @@ Examples for textile (and old-style Confluence wiki):
 Installation
 ------------
 
+Edit the `UserInitials` at the top of the file: this is used to customize
+some of the shortcuts, such as `todo` and `hack`.
+
 To run automatically at startup in Windows 10, see
 [Add an app to run automatically at startup in Windows 10](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd).
 This can be summarized as:
 
 - Windows logo key + R to open Run dialog.
 - `shell:startup` to open the (your?) `Start-up` folder.
-- Copy the script file and Paste shortcut into the `Start-up` folder
+- Copy the script file and Paste shortcut into the `Start-up` folder.
